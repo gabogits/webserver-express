@@ -100,5 +100,7 @@ app.listen(port, () => {
     "test": "echo \"Error: no test specified\" && exit 1"
 },
 */
+//aqui estan los pasos para subir la app a heroku https://dashboard.heroku.com/apps/gabriel-webpage/deploy/heroku-git
+
 
 //handlebars es una libreria que permite la renderizacion dinamica de los sitios web©
